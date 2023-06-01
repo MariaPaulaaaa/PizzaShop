@@ -21,6 +21,7 @@ header {
     margin-top: 2.3%;
     flex-grow: 1;
     align-items: flex-end;
+    text-align: right;
 }
 
 .navbar {
@@ -112,11 +113,13 @@ footer {
 .item-footer2 {
     align-self: center;
     flex-grow: 1;
+    text-align: right;
+    margin-right: 1%;
 }
 
 .item-footer3 {
     position: relative;
     margin-top: 2.3%;
     margin-right: 3%;
-    flex-grow: 1;
+    text-align: right;
 }
